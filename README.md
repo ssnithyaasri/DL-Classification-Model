@@ -12,25 +12,23 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 ### STEP 1: 
 
-Write your own steps
+Create a model class
 
-### STEP 2: 
+### STEP 2:
 
+Define loss equations and optimizations.Train the model.Plot the loss function
 
 
 ### STEP 3: 
+
+Validate the model.Save the trained model to a file.Save the model
 
 
 
 ### STEP 4: 
 
+Apply the model to classify new, unseen data
 
-
-### STEP 5: 
-
-
-
-### STEP 6: 
 
 
 
@@ -38,9 +36,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name:NITHYAA SRI S S
 
-### Register Number:
+### Register Number:212222230100
 
 ```python
 class IrisClassifier(nn.Module):
